@@ -146,3 +146,5 @@ if __name__ == "__main__":
     if fg:
         print("fg: ", fg)
         print("bg: ", bg)
+    else:
+        print("No foreground value received.")
